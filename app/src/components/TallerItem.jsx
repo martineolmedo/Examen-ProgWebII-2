@@ -5,7 +5,7 @@ export const TallerItem = ({taller, onClick}) => {
             style={{ cursor: 'pointer', border: '1px solid #ccc', padding: '10px', marginBottom: '10px', borderRadius: '5px' }}
         >
             <h4>{taller.nombre}</h4>
-            <p>Profesor: {taller.profesor}</p>
+            <p>Costo: ${taller.costo}</p>
         </div>
     );
 };
