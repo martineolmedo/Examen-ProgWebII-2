@@ -26,7 +26,7 @@ const seedDatabase = async () => {
                 isbn: 'A345',
                 paginas: 100,
                 editorial: 'Random',
-                sinopsis: 'Un clásico MMORPG de fantasía en el continente de MU. Leveo intenso y farmeo de joyas.'
+                sinopsis: 'Lorem ipsum 1'
             },
             {
                 titulo: 'Test 2',
@@ -34,7 +34,7 @@ const seedDatabase = async () => {
                 isbn: 'A3455',
                 paginas: 200,
                 editorial: 'Random',
-                sinopsis: 'Un clásico MMORPG de fantasía en el continente de MU. Leveo intenso y farmeo de joyas.'
+                sinopsis: 'Lorem ipsum 2'
             },
              {
                 titulo: 'Test 3',
@@ -42,7 +42,7 @@ const seedDatabase = async () => {
                 isbn: 'A344455',
                 paginas: 50,
                 editorial: 'Random',
-                sinopsis: 'Un clásico MMORPG de fantasía en el continente de MU. Leveo intenso y farmeo de joyas.'
+                sinopsis: 'Lorem ipsum 3'
             },
              {
                 titulo: 'Test 4',
@@ -50,7 +50,7 @@ const seedDatabase = async () => {
                 isbn: 'A344545',
                 paginas: 20,
                 editorial: 'Random',
-                sinopsis: 'Un clásico MMORPG de fantasía en el continente de MU. Leveo intenso y farmeo de joyas.'
+                sinopsis: 'Lorem ipsum 4'
             }
         ];
 
