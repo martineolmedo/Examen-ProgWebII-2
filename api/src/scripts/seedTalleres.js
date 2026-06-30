@@ -24,7 +24,7 @@ const seedDatabase = async () => {
                 nombre: 'Tejido',
                 profesor: 'John Doe22',
                 duracionMeses: 10,
-                costo: 100.50,
+                costo: 80.50,
                 diaHorario: 'Martes de 20 a 21',
                 requisitos: 'Nivel basico'
             },
@@ -32,7 +32,7 @@ const seedDatabase = async () => {
                 nombre: 'Pintura',
                 profesor: 'John Doe33',
                 duracionMeses: 5,
-                costo: 100.50,
+                costo: 90.50,
                 diaHorario: 'Miercoles de 17 a 18',
                 requisitos: 'Nivel intermedio'
             },
@@ -48,7 +48,7 @@ const seedDatabase = async () => {
                 nombre: 'Ceramica',
                 profesor: 'John Doe55',
                 duracionMeses: 6,
-                costo: 100.50,
+                costo: 150.50,
                 diaHorario: 'Viernes de 19 a 20',
                 requisitos: 'Nivel Basico'
             }
